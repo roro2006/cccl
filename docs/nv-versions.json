@@ -1,0 +1,9 @@
+[
+  {
+    "name": "unstable",
+    "version": "unstable",
+    "url": "https://roro2006.github.io/cccl/unstable/",
+    "latest": true,
+    "preferred": true
+  }
+]
